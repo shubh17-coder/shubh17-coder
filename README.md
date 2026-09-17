@@ -17,7 +17,7 @@ Explored Netflix's movies and TV shows catalog — cleaned the dataset, ran expl
 
 **🛒 Global Superstore Sales Analysis**
 Analyzed sales, customer, product, and regional performance data. Built interactive dashboards in Power BI backed by SQL queries to surface business insights.
-🔗 [View Project](https://github.com/shubh17-coder/global-superstore-sales-analysis)
+🔗 [View Project](https://github.com/shubh17-coder/global-superstore-analysis)
 
 ### 🌱 Currently Learning
 
