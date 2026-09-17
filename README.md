@@ -1,36 +1,32 @@
 # Hi, I'm Shubham Sharma 👋
 
-I'm a BCA final-year student interested in Data Analytics and AI/ML, currently building projects to improve my practical skills.
+I'm a final-year BCA student passionate about Data Analytics and AI/ML, and I learn by building — turning raw datasets into clear, actionable insights.
 
 ### 🛠️ Skills
 
 * **Languages:** Python, SQL
 * **Data Analysis:** Pandas, NumPy
 * **Visualization:** Matplotlib, Power BI
-* **Other:** Excel, Jupyter Notebook
+* **Tools:** Excel, Jupyter Notebook
 
-### 📊 Projects
+### 📊 Featured Projects
 
-**Netflix Data Analysis**
+**📺 Netflix Data Analysis**
+Explored Netflix's movies and TV shows catalog — cleaned the dataset, ran exploratory data analysis, and visualized content trends using Python, Pandas, and Matplotlib.
+🔗 [View Project](https://github.com/shubh17-coder/Netflix)
 
-* Analyzed Netflix Movies and TV Shows data using Python, Pandas, and Matplotlib.
-* Worked on data cleaning, exploratory data analysis, and visualization.
-* [View Project](https://github.com/shubh17-coder/Netflix)
-
-**Global Superstore Sales Analysis**
-
-* Analyzed sales, customers, products, shipping, and regional performance.
-* Used SQL and Power BI to explore the data and create dashboards.
-* [View Project](https://github.com/shubh17-coder/global-superstore-sales-analysis)
+**🛒 Global Superstore Sales Analysis**
+Analyzed sales, customer, product, and regional performance data. Built interactive dashboards in Power BI backed by SQL queries to surface business insights.
+🔗 [View Project](https://github.com/shubh17-coder/global-superstore-sales-analysis)
 
 ### 🌱 Currently Learning
 
-I'm currently improving my data analysis skills and exploring AI/ML while working on more projects using Python, SQL, Power BI, and Excel.
+Deepening my data analysis skills and diving into AI/ML — always working on a new project with Python, SQL, Power BI, or Excel.
 
-### 🎯 Career Goal
+### 📫 Let's Connect
 
-Looking for opportunities to start my career as a **Data Analyst** and gain practical experience by working on real-world data problems.
+Always open to feedback, collaboration, or a good conversation about data!
 
 ---
 
-Thanks for visiting my profile!
+⭐ Thanks for stopping by!
